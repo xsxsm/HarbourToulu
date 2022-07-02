@@ -331,6 +331,7 @@ function taskUrl(function_id, body, isCommon) {
     }
 }
 
+
 function getMyPing() {
     let opt = {
         'url': 'https://lzkjdz-isv.isvjcloud.com/customer/getMyPing',
